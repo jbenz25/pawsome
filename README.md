@@ -1,3 +1,3 @@
-# jocelindarma.github.io
+# pawsome.github.io
 
-Personal Website for Jocelin Darma
+Pawsome Website
